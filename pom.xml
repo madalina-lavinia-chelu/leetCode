@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.example</groupId>
+    <artifactId>leetCode</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>1_TwoSum</module>
+        <module>1920_BuildArrayfromPermutation</module>
+        <module>1929_ConcatenationofArray</module>
+        <module>1470_ShuffletheArray</module>
+        <module>1431_KidsWiththeGreatestNumberofCandies</module>
+        <module>2574_LeftandRightSumDifferences</module>
+        <module>11_ContainerWithMostWater</module>
+        <module>16_3SumClosest</module>
+        <module>all</module>
+        <module>1672_RichestCustomerWealth</module>
+        <module>1480_RunningSumof1dArray</module>
+        <module>760_FindAnagramMappings</module>
+        <module>1213_IntersectionofThreeSortedArrays</module>
+        <module>13_RomantoInteger</module>
+        <module>2710_RemoveTrailingZerosFromaString</module>
+        <module>242_ValidAnagram</module>
+        <module>1165_SingleRowKeyboard</module>
+        <module>709_ToLowerCase</module>
+        <module>1859_SortingtheSentence</module>
+        <module>1528_ShuffleString</module>
+        <module>Refection</module>
+
+    </modules>
+
+    <properties>
+        <maven.compiler.source>11</maven.compiler.source>
+        <maven.compiler.target>11</maven.compiler.target>
+    </properties>
+
+</project>
