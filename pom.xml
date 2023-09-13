@@ -30,8 +30,18 @@
         <module>1859_SortingtheSentence</module>
         <module>1528_ShuffleString</module>
         <module>Refection</module>
+        <module>test</module>
+        <module>2810_FaultyKeyboard</module>
 
     </modules>
+    <dependencies>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.28</version>
+            <scope>provided</scope>
+        </dependency>
+    </dependencies>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>

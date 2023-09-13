@@ -10,9 +10,11 @@
         <module name="1672_RichestCustomerWealth" />
         <module name="1470_ShuffletheArray" />
         <module name="1165_SingleRowKeyboard" />
+        <module name="test" />
         <module name="13_RomantoInteger" />
         <module name="Refection" />
         <module name="760_FindAnagramMappings" />
+        <module name="2810_FaultyKeyboard" />
         <module name="1920_BuildArrayfromPermutation" />
         <module name="1_TwoSum" />
         <module name="11_ContainerWithMostWater" />

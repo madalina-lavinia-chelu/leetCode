@@ -1,0 +1,19 @@
+# Project exclude paths
+/1_TwoSum/target/
+/11_ContainerWithMostWater/target/
+/16_3SumClosest/target/
+/242_ValidAnagram/target/
+/709_ToLowerCase/target/
+/760_FindAnagramMappings/target/
+/1165_SingleRowKeyboard/target/
+/1213_IntersectionofThreeSortedArrays/target/
+/1431_KidsWiththeGreatestNumberofCandies/target/
+/1470_ShuffletheArray/target/
+/1480_RunningSumof1dArray/target/
+/1528_ShuffleString/target/
+/1672_RichestCustomerWealth/target/
+/1859_SortingtheSentence/target/
+/1920_BuildArrayfromPermutation/target/
+/1929_ConcatenationofArray/target/
+/2574_LeftandRightSumDifferences/target/
+/2710_RemoveTrailingZerosFromaString/target/
