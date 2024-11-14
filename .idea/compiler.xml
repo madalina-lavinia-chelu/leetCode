@@ -7,21 +7,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="all" />
         <module name="1672_RichestCustomerWealth" />
-        <module name="1470_ShuffletheArray" />
         <module name="1165_SingleRowKeyboard" />
-        <module name="test" />
         <module name="13_RomantoInteger" />
-        <module name="Refection" />
-        <module name="760_FindAnagramMappings" />
-        <module name="2810_FaultyKeyboard" />
         <module name="1920_BuildArrayfromPermutation" />
-        <module name="1_TwoSum" />
-        <module name="11_ContainerWithMostWater" />
         <module name="1929_ConcatenationofArray" />
-        <module name="1480_RunningSumof1dArray" />
-        <module name="16_3SumClosest" />
         <module name="1859_SortingtheSentence" />
         <module name="26_Remove_Duplicates_from_Sorted_Array" />
         <module name="1528_ShuffleString" />
@@ -30,6 +20,17 @@
         <module name="2710_RemoveTrailingZerosFromaString" />
         <module name="709_ToLowerCase" />
         <module name="1431_KidsWiththeGreatestNumberofCandies" />
+        <module name="all" />
+        <module name="1470_ShuffletheArray" />
+        <module name="test" />
+        <module name="Refection" />
+        <module name="760_FindAnagramMappings" />
+        <module name="2810_FaultyKeyboard" />
+        <module name="1_TwoSum" />
+        <module name="11_ContainerWithMostWater" />
+        <module name="1480_RunningSumof1dArray" />
+        <module name="16_3SumClosest" />
+        <module name="169_Majority_Element" />
         <module name="1213_IntersectionofThreeSortedArrays" />
       </profile>
     </annotationProcessing>
