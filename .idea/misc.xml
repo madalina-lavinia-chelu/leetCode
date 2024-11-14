@@ -10,6 +10,7 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/1480. Running Sum of 1d Array/pom.xml" />
+        <option value="$PROJECT_DIR$/2124_CheckAllA'sAppearsBeforeAllB's/pom.xml" />
       </set>
     </option>
   </component>

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
@@ -22,6 +23,7 @@
         <module name="1480_RunningSumof1dArray" />
         <module name="16_3SumClosest" />
         <module name="1859_SortingtheSentence" />
+        <module name="26_Remove_Duplicates_from_Sorted_Array" />
         <module name="1528_ShuffleString" />
         <module name="242_ValidAnagram" />
         <module name="2574_LeftandRightSumDifferences" />
@@ -33,6 +35,8 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="1480. Running Sum of 1d Array" target="11" />
+      <module name="2124_CheckAllA'sAppearsBeforeAllB's" target="11" />
+      <module name="2124_CheckifAllA'sAppearsBeforeAllB's" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>

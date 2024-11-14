@@ -32,6 +32,7 @@
         <module>Refection</module>
         <module>test</module>
         <module>2810_FaultyKeyboard</module>
+        <module>26_Remove_Duplicates_from_Sorted_Array</module>
 
     </modules>
     <dependencies>
